@@ -1,0 +1,61 @@
+body, .contato{
+    width: 100vw;
+    background-color: darkslategrey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+} 
+
+.titulos{
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 27vh;
+    margin-top: 0;
+    padding: 7px 0 7px 0;
+}
+h1{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 2em;
+}
+h2{
+     font-family: 'News Cycle', sans-serif;
+     font-size: 1.5em;
+}
+.perfil_conteiner{
+    width: 200px;
+    position: absolute;
+    justify-content: center;
+    margin: 10px 0 5px 0 ;
+}
+.perfil{
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+   object-fit: cover;
+   border: 5px solid black;
+}
+
+.icons{
+ margin-top: 25vh;
+}
+
+.icons a{
+    color: whitesmoke;
+    font-size: 3em;
+    text-decoration: none;
+}
+
+.icons a :active,
+.icons a :hover{
+  transform: scale(0.8);
+  text-shadow: 0 0 10px;
+}
+.about_me{
+    justify-content: center;
+    width: 70vw;
+}
+.about_me p{
+    font-family: 'Roboto', sans-serif; 
+}
