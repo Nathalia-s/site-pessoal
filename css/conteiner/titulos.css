@@ -1,0 +1,23 @@
+.titulos{
+    background-color: whitesmoke;
+    width: 100vw;
+    height: 30vh;
+    margin-top: 0;
+    padding: 7px 0 7px 0;
+}
+h1{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 2em;
+}
+h2{
+     font-family: 'News Cycle', sans-serif;
+     font-size: 1.8em;
+}
+@media (min-width:890px){
+    .titulos{
+        width: 49vw;
+        height: 70px;
+        padding: 10px 0 15px 0 ;
+    }
+
+}

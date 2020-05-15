@@ -1,0 +1,19 @@
+.icons{
+    margin-top: 25vh;
+}
+   
+.icons a{
+       color: whitesmoke;
+       font-size: 3em;
+       text-decoration: none;
+}
+.icons a :active,
+.icons a :hover{
+  transform: scale(0.8);
+  text-shadow: 0 0 10px;
+}
+@media (min-width:890px){
+    .icons{
+        margin-top: 45vh;
+    }
+}
