@@ -2,7 +2,7 @@
 
 * Site pessoal/ curriculo;
 
-* Desenvolvido na imerção css da Alura;
+* Desenvolvido na imerção css da Alura apenas com #HTML e #CSS;
 
 * Contem uma breve descrição, links para redes sociais e uma foto, visualizção responsiva para celular e desktop;
 
